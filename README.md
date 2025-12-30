@@ -4,7 +4,6 @@
 > Server–client ilişkisi içinde emir–komuta akışını gösteren basit bir yapı.
 
 Bu proje, Python ile socket programlama kullanılarak **Server** ve **Client** arasında mesajlaşma akışını gösterir.  
-Aşağıda her iki tarafın algoritması madde madde açıklanmıştır.
 
 ---
 
